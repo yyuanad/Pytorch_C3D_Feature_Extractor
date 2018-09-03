@@ -1,5 +1,5 @@
 # coding: utf-8
-from data_provider import *
+# from data_provider import *
 from C3D_model import *
 import torchvision
 import torch
